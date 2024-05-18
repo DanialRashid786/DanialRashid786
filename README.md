@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Software House Management System (Django Project)**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **POWER-BI (Data Analysis)**
 
 - 💬 Ask me about **Web Development, Django**
 
