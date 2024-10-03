@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Software House Management System (Django Project)**
 
-- 🌱 I’m currently learning **POWER-BI (Data Analysis)**
+- 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, and Node.js)**
 
-- 💬 Ask me about **Web Development, Django**
+- 💬 Ask me about **Web Development, Django, MERN**
 
 - 📫 How to reach me **danialrashid7700@gmail.com**
 
